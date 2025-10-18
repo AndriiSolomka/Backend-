@@ -2,7 +2,7 @@
 1. **Клонуйте репозиторій:**
 ```bash
 git clone https://github.com/AndriiSolomka/Backend-.git
-cd backend
+cd Backend-
 ```
 
 2. **Встановіть залежності:**
