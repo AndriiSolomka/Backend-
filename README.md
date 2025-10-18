@@ -1,8 +1,7 @@
-# NestJS Backend Application
 
 1. **Клонуйте репозиторій:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/AndriiSolomka/Backend-.git
 cd backend
 ```
 
